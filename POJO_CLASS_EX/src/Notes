@@ -1,0 +1,17 @@
+			P O J O  C L A S S
+		 ( PLAIN OLD JAVA OBJECT )
+		 
+RULES:
+	1. Class must be public
+	2. variable must be private
+	3. must having public default constructor. - mandatory
+	4. can have args constructor.
+	5. every property/field/variable have public getter and setter method...
+	
+ADVANTAGES:
+	1. It Increase the readability and re-usability of a program 
+	2. easy to write and understand
+	
+	
+> getter method mean's a 'accessor' ---->> Update a value of a variable.
+> setter method mean's a 'mutator'  ---->> Read value of a variable.
